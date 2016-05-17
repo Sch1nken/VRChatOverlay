@@ -1,5 +1,7 @@
 # VRChatOverlay
 
+This project utilizes the **[OpenVR API/SDK](https://github.com/ValveSoftware/openvr)**, **[the Simple and Fast Multimedia Library](http://www.sfml-dev.org/)** and **[OpenGL](https://www.opengl.org/)**
+
 Link against:  
 - openvr_api.lib
 - sfml-main-d.lib  
