@@ -17,7 +17,7 @@ Compiles neatly using Visual Studio 2015 (haven't tried GCC yet)
 You can have relative positioned or absolute overlays.  
 You can have overlays starting in a relative position and then move on their own (steam chat messages in HMD)  
 
-You can have a dashboard overlay (see these black button in your steam menu while inside your HMD? yes you can have your own black button there with your own thumbnail (not yet it seems) and can have your own window/chat displayed).  
+You can have a dashboard overlay (see these black buttons in your steam menu while inside your HMD? yes you can have your own black button there with your own thumbnail (not yet it seems) and can have your own window/chat displayed).  
 You can even enable the keyboard when using the overlay so you could write back from withing VR  
 
 You could probably add a button/gesture to enabled/disable the overlay.  

@@ -163,6 +163,10 @@ int main(int argc, char *argv[])
 	//And the alpha :)
 	vr::VROverlay()->SetOverlayAlpha(m_ulOverlayHandle, 0.5);
 
+	//Make the overlay visible
+	vr::VROverlay()->ShowOverlay(m_ulOverlayHandle);
+
+	
 	//SFML stuff
 	while (window.isOpen())
 	{
